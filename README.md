@@ -42,4 +42,4 @@ It helped reinforce my understanding of JavaScript fundamentals in a fun and int
 ## 🖼️ Screenshots
 
 *(Optional: You can add images showing the game UI)*  
-![Screenshot](![image](https://github.com/user-attachments/assets/74ad245d-8a03-4a00-a513-5ff982556f19))
+`![Screenshot](![image](https://github.com/user-attachments/assets/74ad245d-8a03-4a00-a513-5ff982556f19))`
