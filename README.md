@@ -41,5 +41,5 @@ It helped reinforce my understanding of JavaScript fundamentals in a fun and int
 
 ## 🖼️ Screenshots
 
-![Rock-Paper-Scissors-Screenshot](![image](https://github.com/user-attachments/assets/7bda520f-3f90-4bce-bfc7-a4108f83e99b)
-) 
+![Rock-Paper-Scissors-Screenshot](https://github.com/user-attachments/assets/7bda520f-3f90-4bce-bfc7-a4108f83e99b)
+
