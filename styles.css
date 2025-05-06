@@ -43,7 +43,7 @@
   .score-board {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:self-start;
     font-size: 2rem;
     margin-top: 3rem;
     gap: 5rem;
